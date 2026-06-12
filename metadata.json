@@ -1,0 +1,6 @@
+{
+  "name": "Black Hole Simulation",
+  "description": "An interactive physics simulation of a black hole, featuring gravitational lensing, accretion disks, particle orbital dynamics, Hawking radiation, and relativistic visual metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
