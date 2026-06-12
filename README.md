@@ -1,6 +1,4 @@
-Use this brief README for your **Black Hole Simulation** project:
 
-````markdown
 # Black Hole Simulation
 
 Black Hole Simulation is a Vite + TypeScript web project that visualizes an interactive black hole scene in the browser. It is designed to demonstrate space-themed visuals, animation, and frontend development using modern web tools.
@@ -73,5 +71,3 @@ Publish directory: dist
 
 Yashu Kumar
 
-```
-```
